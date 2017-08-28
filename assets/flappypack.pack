@@ -1,0 +1,123 @@
+
+flappypack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkng
+  rotate: false
+  xy: 1, 24
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+menu_background
+  rotate: false
+  xy: 323, 373
+  size: 244, 131
+  orig: 244, 131
+  offset: 0, 0
+  index: -1
+tap_to_fly
+  rotate: false
+  xy: 323, 240
+  size: 244, 131
+  orig: 244, 131
+  offset: 0, 0
+  index: -1
+flappycopter2
+  rotate: false
+  xy: 569, 410
+  size: 120, 94
+  orig: 120, 94
+  offset: 0, 0
+  index: -1
+flappycopter1
+  rotate: false
+  xy: 323, 145
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+flappycopter3
+  rotate: false
+  xy: 569, 319
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+flappycopter4
+  rotate: false
+  xy: 691, 418
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 323, 41
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+aplus
+  rotate: false
+  xy: 691, 314
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 445, 136
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 813, 402
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 916, 402
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+play_arrow
+  rotate: false
+  xy: 569, 215
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+pillar_end
+  rotate: false
+  xy: 1, 8
+  size: 120, 14
+  orig: 120, 14
+  offset: 0, 0
+  index: -1
+pillar_middle
+  rotate: false
+  xy: 1, 1
+  size: 120, 5
+  orig: 120, 5
+  offset: 0, 0
+  index: -1
+
+
+background.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 365, 1
+  size: 419, 480
+  orig: 784, 480
+  offset: 0, 0
+  index: -1

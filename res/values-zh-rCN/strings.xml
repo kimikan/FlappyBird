@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">空中飞鸟</string>
+
+    <string name="current_score">当前分: </string>
+    <string name="best_score">最高分: </string>
+    <string name="tap_to_start">触摸屏幕开始</string>
+</resources>

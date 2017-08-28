@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Air Bird</string>
+
+    <string name="current_score">Score: </string>
+    <string name="best_score">Best : </string>
+    <string name="tap_to_start">Tap to Start</string>
+</resources>

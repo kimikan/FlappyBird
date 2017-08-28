@@ -1,0 +1,2 @@
+-dontwarn com.badlogic.gdx.jnigen.**
+-keep class com.badlogic.** { *; }
