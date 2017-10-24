@@ -11,7 +11,7 @@ A android game for fun
 	</p>
 	
 	<p>
-	Sceenshot1:<br/>
+	Sceenshot1:
 	![image](https://github.com/kimikan/FlappyBird/blob/master/480800/device-2014-03-02-000112.png)
 	
 	Screenshot2:<br/>
