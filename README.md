@@ -10,8 +10,7 @@ A android game for fun
 2. A whole framework to show how to write android game, 
 	</p>
 	
-	<p>
-	Sceenshot1:
+	Sceenshot1:<br/>
 	![image](https://github.com/kimikan/FlappyBird/blob/master/480800/device-2014-03-02-000112.png)
 	
 	Screenshot2:<br/>
